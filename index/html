@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>ONLY Y DTF — Печать по индивидуальному дизайну</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <img src="images/logo.png" class="logo" alt="ONLY Y DTF">
+      <h1 class="slogan">Печать по индивидуальному дизайну — ярко, надолго, с любовью!</h1>
+    </div>
+  </header>
+
+  <main>
+    <section class="why-us">
+      <h2>Почему выбирают нас</h2>
+      <ul>
+        <li>Современные технологии DTF-печати нового поколения</li>
+        <li>Яркие и стойкие цвета, сохраняющие насыщенность годами</li>
+        <li>Индивидуальный подход и бесплатная консультация</li>
+        <li>Доставка по всей России в течение 1 рабочей недели</li>
+        <li>Наклейки термо- и атмосфероустойчивы: выдерживают высокие и низкие температуры</li>
+        <li>Крепко держатся на поверхности — их практически невозможно отклеить</li>
+        <li>Не выцветают и сохраняют яркость долгие годы</li>
+        <li>Можно рассчитать стоимость онлайн 24/7</li>
+      </ul>
+    </section>
+
+    <section class="products">
+      <h2>Наши продукты</h2>
+      <ul>
+        <li>Стикеры и наклейки по индивидуальному проекту</li>
+        <li>Печать на одежде</li>
+        <li>Корпоративные подарки для коллег</li>
+        <li>Уникальные подарки для друзей и близких</li>
+      </ul>
+    </section>
+
+    <section class="gallery">
+      <h2>Наши работы</h2>
+      <div class="images-grid">
+        <img src="images/IMG_7975.jpeg" class="example" alt="Проект 1">
+        <img src="images/IMG_7976.jpeg" class="example" alt="Проект 2">
+        <img src="images/02435610-DCFA-4447-980A-721424F241A3.jpeg" class="example" alt="Проект 3">
+        <img src="images/A6BD6798-0979-4384-9080-16F62F409896.jpeg" class="example" alt="Проект 4">
+        <img src="images/8F8F036C-542F-4933-AA6C-2DAF4875226C.jpeg" class="example" alt="Проект 5">
+        <img src="images/6FCC73D9-BCFD-422A-9B0A-86E51533141D.jpeg" class="example" alt="Проект 6">
+      </div>
+    </section>
+
+    <section class="steps">
+      <h2>Этапы работы с клиентом</h2>
+      <div class="steps-row">
+        <div class="step"><div class="num">1</div><div class="label">Заявка</div></div>
+        <div class="arrow">→</div>
+        <div class="step"><div class="num">2</div><div class="label">Обсуждение дизайна</div></div>
+        <div class="arrow">→</div>
+        <div class="step"><div class="num">3</div><div class="label">Подготовка макета</div></div>
+        <div class="arrow">→</div>
+        <div class="step"><div class="num">4</div><div class="label">Печать</div></div>
+        <div class="arrow">→</div>
+        <div class="step"><div class="num">5</div><div class="label">Доставка</div></div>
+      </div>
+    </section>
+
+    <section class="calculator">
+      <h2>💡 Онлайн-калькулятор стоимости</h2>
+      <div class="calc-frame-wrap">
+        <iframe src="calculator.html" class="calc-frame" title="Калькулятор"></iframe>
+      </div>
+    </section>
+
+    <section class="contacts">
+      <h2>Контакты</h2>
+      <p>📧 Email: info@printdtf.ru</p>
+      <p>📱 Телефон: 8 995 507-74-79</p>
+      <p>📍 Москва, Старо-Калужское шоссе, д. 62, стр. 6<br>(м. Воронцовская, 5 минут пешком от 12-го выхода)</p>
+    </section>
+  </main>
+
+  <footer>
+    <img src="images/logo.png" class="footer-logo" alt="ONLY Y DTF">
+    <p>© 2025 ООО «ОНЛИ Ю ДТФ» — Печать по индивидуальному дизайну<br>ИНН: 7736370740</p>
+    <p><a href="privacy.html" target="_blank" class="privacy-link">🔒 Политика конфиденциальности</a></p>
+  </footer>
+</body>
+</html>
+
